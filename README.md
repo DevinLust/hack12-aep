@@ -5,4 +5,5 @@ on more closely and taken more seriously. Here you will find a
 jupyter notebook which we used to cluster and train the model.
 We have taken careful steps to ensure that no comments are
 posted anywhere in this repo. We also have an image of the 
-dashboard we created.
+dashboard we created. The source files for the mobile app were
+also added.
